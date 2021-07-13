@@ -7,7 +7,7 @@ namespace CradTech.Shared
     {
         public static bool IsValidXmlTag(this string input)
         {
-            return Regex.IsMatch(input, @"^([a-z]+)([^<}+)*(?:>(.*)<\/\1>|\s+\/>)$");
+            return Regex.IsMatch(input, @"^([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$");
         }
 
         public static bool IsValidPassword(this string input)
