@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CradTech.CS8.SharedLibrary</id>
+    <version>1.0.0</version>
+    <authors>CradTech Ltd</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MS-PL</license>
+    <licenseUrl>https://licenses.nuget.org/MS-PL</licenseUrl>
+    <icon>icon.png</icon>
+    <projectUrl>https://github.com/bloodytourists/sc8dotnetcore5</projectUrl>
+    <description>Three extension methods to validate a string value</description>
+    <releaseNotes>Example shared CradTech library Packaged for NuGet</releaseNotes>
+    <copyright>(c)2021 CradTech Ltd</copyright>
+    <tags>String extension CradTech</tags>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\CSharpTutorial\code\chapter07\SharedLibrary\bin\Release\net5.0\SharedLibrary.dll" target="lib\net5.0\SharedLibrary.dll" />
+    <file src="E:\CSharpTutorial\code\chapter07\SharedLibrary\icon.png" target="icon.png" />
+  </files>
+</package>

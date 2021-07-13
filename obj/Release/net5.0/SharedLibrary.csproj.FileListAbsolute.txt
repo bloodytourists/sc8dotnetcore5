@@ -1,0 +1,12 @@
+E:\CSharpTutorial\code\chapter07\SharedLibrary\bin\Release\net5.0\SharedLibrary.deps.json
+E:\CSharpTutorial\code\chapter07\SharedLibrary\bin\Release\net5.0\SharedLibrary.dll
+E:\CSharpTutorial\code\chapter07\SharedLibrary\bin\Release\net5.0\ref\SharedLibrary.dll
+E:\CSharpTutorial\code\chapter07\SharedLibrary\bin\Release\net5.0\SharedLibrary.pdb
+E:\CSharpTutorial\code\chapter07\SharedLibrary\obj\Release\net5.0\SharedLibrary.csprojAssemblyReference.cache
+E:\CSharpTutorial\code\chapter07\SharedLibrary\obj\Release\net5.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpTutorial\code\chapter07\SharedLibrary\obj\Release\net5.0\SharedLibrary.AssemblyInfoInputs.cache
+E:\CSharpTutorial\code\chapter07\SharedLibrary\obj\Release\net5.0\SharedLibrary.AssemblyInfo.cs
+E:\CSharpTutorial\code\chapter07\SharedLibrary\obj\Release\net5.0\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\CSharpTutorial\code\chapter07\SharedLibrary\obj\Release\net5.0\SharedLibrary.dll
+E:\CSharpTutorial\code\chapter07\SharedLibrary\obj\Release\net5.0\ref\SharedLibrary.dll
+E:\CSharpTutorial\code\chapter07\SharedLibrary\obj\Release\net5.0\SharedLibrary.pdb
